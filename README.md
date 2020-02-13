@@ -1,2 +1,2 @@
 # sql-challenge
-SQL HW goes here
+HW # 9: SQL and HW # 10: SQLAlchemy are both here.
